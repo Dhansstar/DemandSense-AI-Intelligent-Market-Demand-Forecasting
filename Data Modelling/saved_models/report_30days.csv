@@ -1,0 +1,7 @@
+Kategori,MAE (Daily),MAPE 30D (%),Vol Acc (%),Actual Total,Predicted Total,Safety Stock,Total Rec.
+Kitchen,13.24,5.31%,94.69%,4289,4061,216,4277
+Tools,5.24,18.89%,81.11%,1599,1297,245,1542
+Home,3.58,6.19%,93.81%,1278,1357,85,1442
+Storage,3.53,22.46%,77.54%,416,322,73,395
+Other,0.76,26.60%,73.40%,94,69,18,87
+Bathroom,0.41,55.56%,44.44%,45,20,5,25

@@ -1,0 +1,13 @@
+Kategori,Horizon,MAE (Sim),MAPE (%),Vol Acc (%),Est. Demand,Safety Stock,Total Procurement
+Bathroom,3 Months,0.53,24.00%,39.94%,60,18,78
+Bathroom,6 Months,0.66,33.00%,35.44%,120,48,168
+Home,3 Months,4.65,24.00%,89.31%,4071,1222,5293
+Home,6 Months,5.73,33.00%,84.81%,8142,3257,11399
+Kitchen,3 Months,17.21,24.00%,90.19%,12183,3655,15838
+Kitchen,6 Months,21.18,33.00%,85.69%,24366,9747,34113
+Other,3 Months,0.99,24.00%,68.90%,207,63,270
+Other,6 Months,1.22,33.00%,64.40%,414,166,580
+Storage,3 Months,4.59,24.00%,73.04%,966,290,1256
+Storage,6 Months,5.65,33.00%,68.54%,1932,773,2705
+Tools,3 Months,6.81,24.00%,76.61%,3891,1168,5059
+Tools,6 Months,8.38,33.00%,72.11%,7782,3113,10895
